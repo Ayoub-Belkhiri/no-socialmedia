@@ -4195,3 +4195,21 @@
 0.0.0.0 zh-hk.facebook.com
 0.0.0.0 zh-tw.facebook.com
 0.0.0.0 zh-tw.facebook.com0.facebook.com
+#suivre
+0.0.0.0 footprints-pa.googleapis.com
+0.0.0.0 android.clients.google.com
+0.0.0.0 snaptu-z.facebook.com
+0.0.0.0 scontent-mad1-1.xx.fbcdn.net
+0.0.0.0 scontent.frba4-1.fna.fbcdn.net
+0.0.0.0 scontent.frba3-2.fna.fbcdn.net
+0.0.0.0 accounts.google.com
+0.0.0.0 optimizationguide-pa.googleapis.com
+0.0.0.0 update.googleapis.com
+0.0.0.0 edgedl.gvt1.com
+0.0.0.0 redirector.gvt1.com
+0.0.0.0 r1---sn-p5h-4x1e.gvt1.com
+0.0.0.0 mail-attachment.googleusercontent.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 mail.google.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 connectivitycheck.gstatic.com
