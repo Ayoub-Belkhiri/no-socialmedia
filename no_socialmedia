@@ -1,3 +1,10 @@
+0.0.0.0 gateway.facebook.com
+0.0.0.0 instantmessaging-pa.googleapis.com
+0.0.0.0 scontent.ffez1-1.fna.fbcdn.net
+0.0.0.0 scontent.ffez1-2.fna.fbcdn.net
+0.0.0.0 scontent.ffez2-2.fna.fbcdn.net
+0.0.0.0 scontent.ffez2-1.fna.fbcdn.net
+0.0.0.0 graph.fbpigeon.com
 0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 0.beta.facebook.com
 0.0.0.0 0.facebook.com
